@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on learning the MERN stack.
+
 <!--
 **haycon/haycon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
