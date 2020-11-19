@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on learning the MERN stack.
+🌱 I’m currently learning the MERN stack.
 
-Contact me @ johansen949@gmail.com
+Contact me: johansen949@gmail.com
 <!--
 **haycon/haycon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
