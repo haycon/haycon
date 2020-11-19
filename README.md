@@ -2,6 +2,7 @@
 
 🔭 I’m currently working on learning the MERN stack.
 
+Contact me @ haycon@protonmail.com
 <!--
 **haycon/haycon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
